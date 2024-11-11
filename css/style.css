@@ -28,3 +28,8 @@ label{
     margin: 0px;
     margin-bottom: 8px;
 }
+
+.redParagraph{
+    color: red;
+    margin-top: 0px;
+}
